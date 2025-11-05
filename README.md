@@ -17,7 +17,7 @@ The HAN architecture mimics the hierarchical structure of language:
 - **Attention Layers** → compute context-aware weights at both levels for interpretability.  
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:800/1*0UMnxoQqDkzH7ij_iVj8_g.png" width="600" alt="HAN Architecture Diagram">
+  <img src="pic/img.png" width="600" alt="HAN Architecture Diagram">
 </p>
 
 ---
